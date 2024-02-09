@@ -3,7 +3,7 @@
 
 <div class="container">
   <h2 class="text-center">
-    Features
+    Serveis
   </h2>
 
   <div class="row">
