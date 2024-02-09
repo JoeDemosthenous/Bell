@@ -1,0 +1,13 @@
+<body>
+    <?php
+    include("header.php");
+    include("hero.php");
+    include("about.php");
+    include("features.php");
+    include("portfolio.php");
+    include("team.php");
+    include("contact.php");
+    include("footer.php");
+    include("js.php");
+    ?>
+</body>
