@@ -1,18 +1,19 @@
 <main id="main">
 
-<!-- ======= About Section ======= -->
-<section class="about" id="about">
+  <!-- ======= About Section ======= -->
+  <section class="about" id="about">
 
-  <div class="container text-center">
-    <h2>
-      About Bell Template
-    </h2>
+    <div class="container text-center">
+      <h2>
+        About Bell Template
+      </h2>
 
-    <p>
-      Voluptua scripserit per ad, laudem viderer sit ex. Ex alia corrumpit voluptatibus usu, sed unum convenire id. Ut cum nisl moderatius, per nihil dicant commodo an. Eum tacimates erroribus ad. Atqui feugiat euripidis ea pri, sed veniam tacimates ex. Menandri
-      temporibus an duo.
-    </p>
+      <p>
+        Voluptua scripserit per ad, laudem viderer sit ex. Ex alia corrumpit voluptatibus usu, sed unum convenire id. Ut cum nisl moderatius, per nihil dicant commodo an. Eum tacimates erroribus ad. Atqui feugiat euripidis ea pri, sed veniam tacimates ex. Menandri
+        temporibus an duo.
+      </p>
 
+  
     <div class="row stats-row">
       <div class="stats-col text-center col-md-3 col-sm-6">
         <div class="circle">
@@ -42,4 +43,5 @@
         </div>
       </div>
     </div>
-  </div>
+    </div>
+  </section>
