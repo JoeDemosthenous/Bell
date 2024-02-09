@@ -5,7 +5,6 @@
     include("about.php");
     include("features.php");
     include("portfolio.php");
-    include("team.php");
     include("contact.php");
     include("footer.php");
     include("js.php");
