@@ -6,9 +6,9 @@
     ?>
 </head>
 
-<body><?php
+<body>
+    <?php
         include("body.php");
         ?>
 </body>
-
 </html>
