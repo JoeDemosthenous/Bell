@@ -5,24 +5,19 @@
   <h2 class="text-center">
     Serveis
   </h2>
-
   <div class="row">
     <div class="feature-col col-lg-4 col-xs-12">
       <div class="card card-block text-center">
         <div>
           <div class="feature-icon">
-            <i class="bi bi-briefcase"></i>
+            <i class="bi bi-arrow-clockwise"></i>
           </div>
         </div>
 
         <div>
           <h3>
-            Custom Design
+Actualitzar
           </h3>
-
-          <p>
-            Eque feugiat contentiones ei has. Id summo mundi explicari his, nec in maiorum scriptorem.
-          </p>
         </div>
       </div>
     </div>
@@ -31,18 +26,14 @@
       <div class="card card-block text-center">
         <div>
           <div class="feature-icon">
-            <i class="bi bi-card-checklist"></i>
+            <i class="bi bi-x-circle"></i>
           </div>
         </div>
 
         <div>
           <h3>
-            Responsive Layout
+Esborrar
           </h3>
-
-          <p>
-            Eque feugiat contentiones ei has. Id summo mundi explicari his, nec in maiorum scriptorem.
-          </p>
         </div>
       </div>
     </div>
@@ -51,82 +42,19 @@
       <div class="card card-block text-center">
         <div>
           <div class="feature-icon">
-            <i class="bi bi-bar-chart"></i>
+            <i class="bi bi-plus-circle"></i>
           </div>
         </div>
 
         <div>
           <h3>
-            Innovative Ideas
+Afegir
           </h3>
-
-          <p>
-            Eque feugiat contentiones ei has. Id summo mundi explicari his, nec in maiorum scriptorem.
-          </p>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="row">
-    <div class="feature-col col-lg-4 col-xs-12">
-      <div class="card card-block text-center">
-        <div>
-          <div class="feature-icon">
-            <i class="bi bi-binoculars"></i>
-          </div>
-        </div>
-
-        <div>
-          <h3>
-            Good Documentation
-          </h3>
-
-          <p>
-            Eque feugiat contentiones ei has. Id summo mundi explicari his, nec in maiorum scriptorem.
-          </p>
-        </div>
-      </div>
-    </div>
-
-    <div class="feature-col col-lg-4 col-xs-12">
-      <div class="card card-block text-center">
-        <div>
-          <div class="feature-icon">
-            <i class="bi bi-brightness-high"></i>
-          </div>
-        </div>
-
-        <div>
-          <h3>
-            Excellent Features
-          </h3>
-
-          <p>
-            Eque feugiat contentiones ei has. Id summo mundi explicari his, nec in maiorum scriptorem.
-          </p>
-        </div>
-      </div>
-    </div>
-
-    <div class="feature-col col-lg-4 col-xs-12">
-      <div class="card card-block text-center">
-        <div>
-          <div class="feature-icon">
-            <i class="bi bi-calendar4-week"></i>
-          </div>
-        </div>
-
-        <div>
-          <h3>
-            Retina Ready
-          </h3>
-          <p>
-            Eque feugiat contentiones ei has. Id summo mundi explicari his, nec in maiorum scriptorem.
-          </p>
-        </div>
-      </div>
-    </div>
   </div>
 </div>
 

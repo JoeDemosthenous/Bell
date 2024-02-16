@@ -555,8 +555,8 @@ text-align: left;
   width: 70px;
   height: 70px;
   margin-bottom: 15px;
-  background: #199EB8;
-  color: #fff;
+  background: #f7f7f7;
+  color: #000000;
   font-size: 24px;
   text-align: center;
   border-radius: 50%;
@@ -567,7 +567,7 @@ text-align: left;
 }
 
 .feature-col h3 {
-  color: #199EB8;
+  color: black;
 }
 
 .feature-col p {
