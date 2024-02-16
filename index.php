@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <?php
     include("head.php");
@@ -8,7 +9,8 @@
 
 <body>
     <?php
-        include("body.php");
-        ?>
+    include("body.php");
+    ?>
 </body>
+
 </html>
