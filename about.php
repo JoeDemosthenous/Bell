@@ -5,7 +5,7 @@
 
     <div class="container text-center">
       <h2>
-        About Bell Template
+      Sobre el Projecte
       </h2>
 
       <p>
