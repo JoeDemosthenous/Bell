@@ -17,6 +17,8 @@
           <div>
             <h3>
               Actualitzar
+              <hr>
+              <p style="font-size: medium;">Aquí podràs actualitzar productes sense haver d'entrar al WordPress</p>
             </h3>
           </div>
         </div>
@@ -33,7 +35,8 @@
           <div>
             <h3>
               Esborrar
-            </h3>
+              <hr>
+              <p style="font-size: medium;">Aquí podràs esborrar productes sense haver d'entrar al WordPress</p>
           </div>
         </div>
       </div>
@@ -49,6 +52,8 @@
           <div>
             <h3>
               Afegir
+              <hr>
+              <p style="font-size: medium;">Aquí podràs afegir nous productes remotament sense haver d'entrar en el WordPress</p>
             </h3>
           </div>
         </div>
