@@ -9,11 +9,8 @@
 
       <div class="col-md-12">
         <h1>
-          A theme with personality
-        </h1>
-        <p class="tagline">
-          This is a powerful theme with some great features that you can use in your future projects.
-        </p>
+CRUD de Woocomerce        </h1>
+  
       </div>
     </div>
 
