@@ -5,43 +5,15 @@
 
     <div class="container text-center">
       <h2>
-        About Bell Template
+        Sobre el Projecte
       </h2>
 
       <p>
-        Voluptua scripserit per ad, laudem viderer sit ex. Ex alia corrumpit voluptatibus usu, sed unum convenire id. Ut cum nisl moderatius, per nihil dicant commodo an. Eum tacimates erroribus ad. Atqui feugiat euripidis ea pri, sed veniam tacimates ex. Menandri
-        temporibus an duo.
+        Aquesta pagina web es un projecte final en el que practiquem el us de differents tecnologies. Les tecnologies que estem fent servir en aquesta pagina web son les seguents:
+        <br><b>PhP</b>:Estem fent servir PHP per a fer visibles els nostres productes ,tambe l'estem fent servir per a modificar els nostres productes mediant aquesta pagina web.
+        <br><b>Wordpress i Woocomerce:</b>Estem fent servir el Wordpress i l'extencio Woocomerce entre altres coses per a crear productes, etiquetes i altres coses.
       </p>
-
-  
-    <div class="row stats-row">
-      <div class="stats-col text-center col-md-3 col-sm-6">
-        <div class="circle">
-          <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter stats-no"></span>
-          Satisfied Customers
-        </div>
-      </div>
-
-      <div class="stats-col text-center col-md-3 col-sm-6">
-        <div class="circle">
-          <span data-purecounter-start="0" data-purecounter-end="79" data-purecounter-duration="1" class="purecounter stats-no"></span>
-          Released Projects
-        </div>
-      </div>
-
-      <div class="stats-col text-center col-md-3 col-sm-6">
-        <div class="circle">
-          <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter stats-no"></span>
-          Hours Of Support
-        </div>
-      </div>
-
-      <div class="stats-col text-center col-md-3 col-sm-6">
-        <div class="circle">
-          <span data-purecounter-start="0" data-purecounter-end="68" data-purecounter-duration="1" class="purecounter stats-no"></span>
-          Hard Workers
-        </div>
-      </div>
+    </div>
     </div>
     </div>
   </section>
